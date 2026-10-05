@@ -6,3 +6,4 @@ This is my new line for task with PolinaThis is a new line for change 2
 This is change by Polina for task 1.4
 Change 1.4 by Irin
 New change 2.1 by Irin
+New change 2.2 by Polina

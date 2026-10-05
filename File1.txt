@@ -2,4 +2,5 @@ This is my first version on the file - some change in br3
 The new feature is coming soon
 Stay tuned
 this change is in masterNew change by Polina
+line change for task 2.5 by Polina
 new change for last task by ira
